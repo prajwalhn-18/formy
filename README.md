@@ -6,10 +6,6 @@ A comprehensive book formatting application built with React, TypeScript, Node.j
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
-
-ISC
-
 ## Author
 
 Prajwal Haniya
